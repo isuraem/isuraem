@@ -1,4 +1,4 @@
-<h1 align= "center"> Hi I'm Isura Eranda 👋<h1>
+<h2 align= "center"> Hi I'm Isura Eranda 👋 <h2>
 
 - 👯 I’m interested in Software Development and Open Source
 - 🌱 I’m currently learning React-Native, Angular
