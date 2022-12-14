@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isura Eranda</h1>
 
-<h2 align="center" >Underraduate at SLIIT</h2>
+<h2 align="center" >I'm a passionate Full Stack Developer from Sri Lanka.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuraem&label=Profile%20views&color=0e75b6&style=flat" alt="isuraem" /> </p>
 </p>
 
