@@ -26,5 +26,5 @@
 <p display="flex" flex-direction="row" >
 <img  width ="50%" height ="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuraem&show_icons=true&locale=en&layout=compact" alt="isuraem" />
 
-<img width ="49%"  height ="300px"  src="https://github-readme-stats.vercel.app/api?username=isuraem&show_icons=true&locale=en" alt="isuraem" />
+<img width ="49%"  height ="290px"  src="https://github-readme-stats.vercel.app/api?username=isuraem&show_icons=true&locale=en" alt="isuraem" />
 </p>
