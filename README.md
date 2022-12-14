@@ -24,7 +24,7 @@
 
 <p align = "center"><img width ="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuraem&" alt="isuraem" /></p>
 <p display="flex" >
-<img  width ="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuraem&show_icons=true&locale=en&layout=compact" alt="isuraem" />
+<img  width ="50%" height ="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuraem&show_icons=true&locale=en&layout=compact" alt="isuraem" />
 
-<img width ="49%" src="https://github-readme-stats.vercel.app/api?username=isuraem&show_icons=true&locale=en" alt="isuraem" />
+<img width ="49%"  height ="300px"  src="https://github-readme-stats.vercel.app/api?username=isuraem&show_icons=true&locale=en" alt="isuraem" />
 </p>
