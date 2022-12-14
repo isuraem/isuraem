@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isura Eranda</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuraem&label=Profile%20views&color=0e75b6&style=flat" alt="isuraem" /> </p>
 
+<h2 align="center" >Under Graduate at SLIIT</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuraem&label=Profile%20views&color=0e75b6&style=flat" alt="isuraem" /> </p>
 </p>
 
 - 🌱 I’m currently learning **React-Native, Angular**
