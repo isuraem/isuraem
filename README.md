@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isura Eranda</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuraem&label=Profile%20views&color=0e75b6&style=flat" alt="isuraem" /> </p>
-
-
 
 - 🌱 I’m currently learning **React-Native, Angular**
 
