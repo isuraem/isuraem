@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
 
-- 🌱 I’m currently learning **React-Native, Angular**
+- 🌱 I’m currently learning **C#, Angular**
 
 - 👯 I’m interested in **Software Development and Open Source**
 
